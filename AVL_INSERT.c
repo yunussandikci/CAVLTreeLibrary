@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "Stack.h"
-#include "AVL_Tree.h"
+#include "AVL_TREE.h"
 
 int getMax(int a, int b){
     return (a > b)? a : b;
